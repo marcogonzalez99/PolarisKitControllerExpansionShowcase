@@ -52,15 +52,6 @@ This expansion is powered by **PolarisKit** it does not overwrite PolarisKit’s
 
 ---
 
-## 💬 Need Help?
-
-This expansion is part of the **PolarisKit ecosystem**, built by developers for developers. If you're stuck, feel free to reach out:
-
-📫 [LinkedIn](https://www.linkedin.com/in/marco-a-gonzalez99)  
-💻 [GitHub](https://github.com/marcogonzalez99)
-
----
-
 ## 🏷️ Licensing & Access
 
 > This expansion is part of a **paid toolkit** under **SB Studios**.  
