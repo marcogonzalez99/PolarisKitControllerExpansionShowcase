@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/background_image.png" width="640" alt="PolarisKit Controller Expansion">
+  <img src="images/logo.png" width="640" alt="PolarisKit Controller Expansion">
 </p>
 
 # 🎮 PolarisKit Controller Expansion  
